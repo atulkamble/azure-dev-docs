@@ -27,7 +27,7 @@ As a resource topology becomes complex, understanding the meaning and impact of 
 
 The Terraform CLI enables users to validate and preview infrastructure changes before application. Previewing infrastructure changes in a safe manner has several benefits:
 - Team members can collaborate more effectively by quickly understanding proposed changes and their impact.
-- Unintended changes can be caught early in the development process
+- Unintended changes can be caught early in the development process.
 
 ## Deploy infrastructure to multiple clouds
 
